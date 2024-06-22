@@ -18,7 +18,7 @@ Matplotlib
 Installation
 
 Clone the repository:
-git clone https://github.com/zzizyte/finance-tracker.git
+git clone https://github.com/zzizyte/capstone_project.git
 cd finance-tracker
 
 Install the required packages:
